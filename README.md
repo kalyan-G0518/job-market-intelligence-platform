@@ -161,9 +161,9 @@ Power BI dashboards provide visual insights into:
 
 | Source             | Records |
 | ------------------ | ------: |
-| LinkedIn Postings  |   6,025 |
-| Data Engineer Jobs |   2,528 |
-| Data Science Jobs  |     565 |
+| LinkedIn Postings  |   2,524 |
+| Data Engineer Jobs |   1,246 |
+| Data Science Jobs  |     377 |
 
 ---
 
