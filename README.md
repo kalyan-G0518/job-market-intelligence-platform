@@ -153,9 +153,9 @@ Power BI dashboards provide visual insights into:
 
 | Platform | Job Postings |
 | -------- | -----------: |
-| AWS      |        3,179 |
-| Azure    |        2,141 |
-| GCP      |          919 |
+| AWS      |        1,607 |
+| Azure    |        1,397 |
+| GCP      |          509 |
 
 ### Dataset Distribution
 
